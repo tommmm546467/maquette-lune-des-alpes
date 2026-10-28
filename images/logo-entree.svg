@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 250" role="img" aria-label="Chalet Lune des Alpes">
+  <g transform="translate(120 0)">
+    <path d="M74 14a30 30 0 1 0 30 38A24 24 0 1 1 74 14z" fill="#f1d58f"/>
+    <path d="M8 104 34 62l9 13 13-27 14 26 8-11 34 41z" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M43 75l6 8 7-7 7 8" fill="none" stroke="#fff" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="180" y="168" text-anchor="middle" fill="#fff" font-family="Georgia,'Times New Roman',serif" font-size="40" font-style="italic">Lune des Alpes</text>
+  <text x="180" y="204" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="6" font-weight="700">CHALET · VALLOIRE</text>
+</svg>
